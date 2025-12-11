@@ -1,0 +1,80 @@
+export const content = {
+  es: {
+    nav: {
+      home: "Inicio",
+      about: "Nosotros",
+      offer: "Oferta",
+      contact: "Contacto"
+    },
+    hero: {
+      title: "CASA BAMBA",
+      subtitle: "Lounge de Cócteles, Cervezas y Tapas",
+      cta: "Descubre la Vibra"
+    },
+    about: {
+      title: "Nosotros",
+      description: "Casa Bamba nació del sueño de crear un espacio donde el arte, la música y la buena compañía se encuentran. En el corazón de un barrio de artistas, decidimos construir más que un bar: un encuentro de almas que buscan compartir momentos auténticos.",
+      challenge: "El camino no fue fácil. Desde cero, con pasión y determinación, transformamos una idea en realidad. Cada detalle, cada rincón, cada copa servida, lleva la huella de nuestro esfuerzo y compromiso.",
+      impact: "Hoy, Casa Bamba es el corazón de nuestra comunidad. La vibra que recibimos de ustedes, nuestros clientes, es la gasolina que nos mantiene vivos. Cada risa, cada brindis, cada encuentro aquí es lo que nos inspira a seguir adelante.",
+      values: "Aquí celebramos la diversidad, la creatividad y la conexión humana. Somos un espacio seguro donde todos son bienvenidos, donde la música suena bien, las bebidas son generosas, y la compañía es inmejorable."
+    },
+    offer: {
+      title: "Nuestra Oferta",
+      cocktails: "Cócteles",
+      cocktailsDesc: "Creaciones artesanales preparadas con ingredientes premium y técnicas clásicas.",
+      beers: "Cervezas",
+      beersDesc: "Selección cuidada de cervezas locales e internacionales para todos los paladares.",
+      tapas: "Tapas",
+      tapasDesc: "Pequeños placeres que acompañan perfectamente tu experiencia en Casa Bamba."
+    },
+    contact: {
+      title: "Contacto",
+      phone: "Teléfono",
+      email: "Email",
+      location: "Ubicación",
+      hours: "Horarios",
+      hoursText: "Abierto de martes a domingo, de 18:00 a 02:00",
+      followUs: "Síguenos",
+      getInTouch: "¿Preguntas? Escríbenos"
+    }
+  },
+  en: {
+    nav: {
+      home: "Home",
+      about: "About",
+      offer: "Offer",
+      contact: "Contact"
+    },
+    hero: {
+      title: "CASA BAMBA",
+      subtitle: "Cocktails, Beers & Tapas Lounge",
+      cta: "Discover the Vibe"
+    },
+    about: {
+      title: "About Us",
+      description: "Casa Bamba was born from the dream of creating a space where art, music, and good company meet. In the heart of an artist neighborhood, we decided to build more than a bar: a gathering of souls seeking to share authentic moments.",
+      challenge: "The journey wasn't easy. From scratch, with passion and determination, we transformed an idea into reality. Every detail, every corner, every drink served carries the mark of our effort and commitment.",
+      impact: "Today, Casa Bamba is the heartbeat of our community. The vibe we receive from you, our customers, is the fuel that keeps us alive. Every laugh, every toast, every encounter here is what inspires us to keep going.",
+      values: "Here we celebrate diversity, creativity, and human connection. We are a safe space where everyone is welcome, where the music sounds good, the drinks are generous, and the company is unbeatable."
+    },
+    offer: {
+      title: "Our Offer",
+      cocktails: "Cocktails",
+      cocktailsDesc: "Artisanal creations prepared with premium ingredients and classic techniques.",
+      beers: "Beers",
+      beersDesc: "Carefully curated selection of local and international beers for all tastes.",
+      tapas: "Tapas",
+      tapasDesc: "Little pleasures that perfectly complement your experience at Casa Bamba."
+    },
+    contact: {
+      title: "Contact",
+      phone: "Phone",
+      email: "Email",
+      location: "Location",
+      hours: "Hours",
+      hoursText: "Open Tuesday to Sunday, 6:00 PM to 2:00 AM",
+      followUs: "Follow Us",
+      getInTouch: "Questions? Write to us"
+    }
+  }
+} as const;
