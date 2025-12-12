@@ -17,7 +17,7 @@ export function Navigation() {
       <div className="container flex items-center justify-between h-16 md:h-20">
         {/* Logo */}
         <div className="flex items-center">
-          <h1 className="text-2xl md:text-3xl font-bold text-primary">CASA BAMBA</h1>
+          <h1 className="text-2xl md:text-3xl font-bold text-primary">CASA DE BAMBA</h1>
         </div>
 
         {/* Desktop Navigation */}

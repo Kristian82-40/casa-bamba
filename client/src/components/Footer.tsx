@@ -10,9 +10,9 @@ export function Footer() {
         <div className="flex flex-col md:flex-row items-center justify-between gap-4 md:gap-6">
           {/* Logo & Copyright */}
           <div className="text-center md:text-left">
-            <h3 className="text-xl md:text-2xl font-bold text-primary mb-1 md:mb-2">CASA BAMBA</h3>
+            <h3 className="text-xl md:text-2xl font-bold text-primary mb-1 md:mb-2">CASA DE BAMBA</h3>
             <p className="text-foreground/60 text-xs md:text-sm">
-              © {currentYear} Casa Bamba. Todos los derechos reservados.
+              © {currentYear} Casa de Bamba. Todos los derechos reservados.
             </p>
           </div>
 
