@@ -30,10 +30,8 @@
     "contact": {
       "title": "Contacto",
       "phone": "Teléfono",
-      "email": "Email",
-      "location": "Ubicación",
-      "hours": "Horarios",
-      "hoursText": "Abierto de martes a domingo, de 18:00 a 02:00",
+      "email": "pbaruselli@gmail.com",      "location": "Ubicación",
+      "location": "Carrer de Santa Madrona 16",      "hoursText": "Abierto de martes a domingo, de 18:00 a 02:00",
       "followUs": "Síguenos",
       "getInTouch": "¿Preguntas? Escríbenos"
     }
@@ -69,10 +67,8 @@
     "contact": {
       "title": "Contact",
       "phone": "Phone",
-      "email": "Email",
-      "location": "Location",
-      "hours": "Hours",
-      "hoursText": "Open Tuesday to Sunday, 6:00 PM to 2:00 AM",
+      "email": "pbaruselli@gmail.com",      "location": "Location",
+      "location": "Carrer de Santa Madrona 16",      "hoursText": "Open Tuesday to Sunday, 6:00 PM to 2:00 AM",
       "followUs": "Follow Us",
       "getInTouch": "Questions? Write to us"
     }
