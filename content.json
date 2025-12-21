@@ -30,8 +30,9 @@
     "contact": {
       "title": "Contacto",
       "phone": "Teléfono",
+      "phoneNumber": "+34 664 21 44 87",
       "email": "pbaruselli@gmail.com",      "location": "Ubicación",
-      "location": "Carrer de Santa Madrona 16",      "hoursText": "Abierto de martes a domingo, de 18:00 a 02:00",
+      "location": "Carrer de Santa Madrona 16, Vilanova i la Geltrú, Barcelona",      "hoursText": "Abierto de martes a domingo, de 18:00 a 02:00",
       "followUs": "Síguenos",
       "getInTouch": "¿Preguntas? Escríbenos"
     }
@@ -67,8 +68,9 @@
     "contact": {
       "title": "Contact",
       "phone": "Phone",
+      "phoneNumber": "+34 664 21 44 87",
       "email": "pbaruselli@gmail.com",      "location": "Location",
-      "location": "Carrer de Santa Madrona 16",      "hoursText": "Open Tuesday to Sunday, 6:00 PM to 2:00 AM",
+      "location": "Carrer de Santa Madrona 16, Vilanova i la Geltrú, Barcelona",      "hoursText": "Open Tuesday to Sunday, 6:00 PM to 2:00 AM",
       "followUs": "Follow Us",
       "getInTouch": "Questions? Write to us"
     }
