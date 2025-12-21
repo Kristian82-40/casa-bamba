@@ -41,7 +41,7 @@ export function Hero() {
         ref={imageRef}
         className="absolute inset-0 w-full h-full"
         style={{
-          backgroundImage: 'url(/images/labuenaCasadebamba1.png
+          backgroundImage: 'url(/images/labuenaCasadebamba1.png)',
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           backgroundAttachment: 'fixed',
