@@ -40,7 +40,7 @@ jobs:
 
 
       - name: Add .nojekyll
-              run: touch ./dist/public/.nojekyll
+        run: touch ./dist/public/.nojekyll
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
